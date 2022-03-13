@@ -2,11 +2,19 @@
     color: red;
     text-align: center;
     font-size: "arial";
+    width: 70%;
     padding: 1em;
+}
+
+#cabecera{
+    background: blue;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    text-align: left;
 }
 
 #box{
     text-align: center;
-    width: 70%;
     border: 10px solid red;
 }
