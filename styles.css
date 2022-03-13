@@ -1,0 +1,12 @@
+#container{
+    color: red;
+    text-align: center;
+    font-size: "arial";
+    padding: 1em;
+}
+
+#box{
+    text-align: center;
+    width: 70%;
+    border: 10px solid red;
+}
